@@ -2,7 +2,9 @@
 
 /* Retirement Income Planning with Annuities Full Content */
 $ripwa_full =
-	'[lead]We can chart the trajectory of our adult lives by the momentous occasions that alter its course: marriage, the birth of our children, moving into a new house and, of course, retirement.[/lead]
+	"[btn href='/' class='btn btn-primary btn-half'][icon class='fa fa-eye fa-fw'] View Full Library[/btn][dl class='btn btn-primary btn-half'][icon class='fa fa-download fa-fw'] Access Now[/dl]
+	
+	[lead]We can chart the trajectory of our adult lives by the momentous occasions that alter its course: marriage, the birth of our children, moving into a new house and, of course, retirement.[/lead]
 
 While all of these events indicate times of incredible change, there is one factor that sets retirement apart from those other life events: you might not be surrounded by family and friends ready to chip in and help out when your retirement day comes. Consequently, if you want to enjoy all the amazing new places retirement can take you, you should develop a retirement plan that plays to your specific needs, desires and abilities, so you can generate the income you need even without your old salary.
 
@@ -135,11 +137,11 @@ Regardless of how you get to retirement or what your goals are, one thing is cle
 
 Today, you can manage your lifestyle, avoid market volatility and potentially create a lifetime income simply by having a conversation with your retirement professional. Fixed index income annuities can address each of the changes that retirement brings and can help you financially survive, even thrive, during your retirement – and enjoy the retirement you have been working your entire life for!
 
-[btn href="/" class="btn btn-primary btn-lg btn-block"]Access Full Library[/btn]
+[btn href='/' class='btn btn-primary btn-lg btn-block']Access Full Library[/btn]
 
 <hr />
 
-[span class="small"]
+[span class='small']
 
 *Annuities are designed to be long-term investments and frequently involve substantial charges such as administrative fees, annual contract fees, mortality &amp; risk expense charges and surrender charges. Early withdrawals may impact annuity cash values and death benefits. Taxes are payable upon withdrawal of funds. An additional 10% IRS penalty may apply to withdrawals prior to age 59 ½. Annuities are not guaranteed by FDIC or any other governmental agency and are not deposits or other obligations of, or guaranteed or endorsed by any bank or savings association.
 
@@ -147,12 +149,12 @@ With fixed annuities, both the money you invest and the interest paid out are gu
 
 **The investment return and principal value of a variable annuity will fluctuate and may lose value and/or principal. A prospectus detailing the investment objectives, risks, fees and expenses, as well as other specific information about the variable annuity may be obtained from your registered representative. You are encouraged to read the prospectus carefully before sending any money. Variable annuities are not FDIC-insured and are not deposits or guarantees by a bank or other entity.
 
-***The Standard and Poor’s 500 is an unmanaged, capitalization weighted benchmark that tracks broad-based changes in the U.S. stock market. This index of 500 common stocks is comprised of 400 industrial, 20 transportation, 40 utility, and 40 financial companies representing major U.S. industry sectors. The index is calculated on a total return basis with dividends reinvested and is not available for direct investment.[/span]'
+***The Standard and Poor’s 500 is an unmanaged, capitalization weighted benchmark that tracks broad-based changes in the U.S. stock market. This index of 500 common stocks is comprised of 400 industrial, 20 transportation, 40 utility, and 40 financial companies representing major U.S. industry sectors. The index is calculated on a total return basis with dividends reinvested and is not available for direct investment.[/span]"
 ;
 
 /* Retirement Income Planning with Annuities Excerpt Content */
 $ripwa_excerpt = 
-	'Fixed index annuities can offer the potential for growth, structured income and principal protection.
+	'Your Retirement Income Planning with Annuities brochure will help you decide if an annuity is right for you and which annuity is right for you.
 
-[btn href="#reg" class="btn-primary btn-lg btn-block lightbox"]Join Today![/btn]'
+[btn href="#reg" class="btn-primary btn-lg btn-block lightbox"][icon class="fa fa-download fa-fw"] Access Now![/btn]'
 ;
