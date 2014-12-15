@@ -2,7 +2,7 @@
 
 /* Retirement Income Planning with Annuities Full Content */
 $ripwa_full =
-	"[btn href='/' class='btn btn-primary btn-half'][icon class='fa fa-eye fa-fw'] View Full Library[/btn][dl class='btn btn-primary btn-half'][icon class='fa fa-download fa-fw'] Access Now[/dl]
+	"[btn href='/' class='btn btn-primary btn-half'][icon class='fa fa-eye fa-fw'] View Full Library[/btn][dl class='btn btn-primary btn-half'][icon class='fa fa-download fa-fw'] Download Now[/dl]
 	
 	[lead]We can chart the trajectory of our adult lives by the momentous occasions that alter its course: marriage, the birth of our children, moving into a new house and, of course, retirement.[/lead]
 
