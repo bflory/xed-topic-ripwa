@@ -156,5 +156,5 @@ With fixed annuities, both the money you invest and the interest paid out are gu
 $ripwa_excerpt = 
 	'Your Retirement Income Planning with Annuities brochure will help you decide if an annuity is right for you and which annuity is right for you.
 
-[btn href="#reg" class="btn-primary btn-lg btn-block lightbox"][icon class="fa fa-download fa-fw"] Access Now![/btn]'
+[btn href="#reg" class="btn-primary btn-lg btn-block lightbox"][icon class="fa fa-download fa-fw"] Download Now![/btn]'
 ;

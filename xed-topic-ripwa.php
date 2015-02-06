@@ -4,7 +4,7 @@
 	Author: Bryce Flory
 	Author URI: http://gradientps.com
 	Description: Retirement Income Planning with Annuities Topic
-	Version: 1.0
+	Version: 1.1
 */
 
 // Create Topic on Activation
